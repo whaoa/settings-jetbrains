@@ -1,4 +1,8 @@
 <code_scheme name="Default" version="173">
+  <GoCodeStyleSettings>
+    <option name="ADD_LEADING_SPACE_TO_COMMENTS" value="true" />
+    <option name="LOCAL_PACKAGE_PREFIXES" />
+  </GoCodeStyleSettings>
   <HTMLCodeStyleSettings>
     <option name="HTML_DO_NOT_INDENT_CHILDREN_OF" value="html,thead,tbody,tfoot" />
   </HTMLCodeStyleSettings>
@@ -10,9 +14,6 @@
     <option name="SPACES_WITHIN_OBJECT_LITERAL_BRACES" value="true" />
     <option name="SPACES_WITHIN_IMPORTS" value="true" />
   </JSCodeStyleSettings>
-  <VueCodeStyleSettings>
-    <option name="INDENT_CHILDREN_OF_TOP_LEVEL" value="template,style" />
-  </VueCodeStyleSettings>
   <codeStyleSettings language="HTML">
     <option name="LINE_COMMENT_AT_FIRST_COLUMN" value="false" />
     <option name="BLOCK_COMMENT_AT_FIRST_COLUMN" value="false" />
