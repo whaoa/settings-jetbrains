@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="下架" />
+      <item value="上架" />
       <item value="restaurants" />
       <item value="House Promotion" />
       <item value="生成" />
@@ -24,12 +26,12 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="12" />
-        <entry key="ENGLISH" value="12" />
+        <entry key="ENGLISH" value="13" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1634024859672" />
+    <option name="lastTrimTime" value="1634629963998" />
   </component>
   <component name="Settings">
     <option name="aliTranslateSettings">
