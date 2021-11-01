@@ -9,4 +9,11 @@
     <entry key="ide.tree.collapse.recursively" value="false" />
     <entry key="ide.intellij.laf.enable.animation" value="true" />
   </component>
+  <component name="StatusBar">
+    <option name="widgets">
+      <map>
+        <entry key="Memory" value="true" />
+      </map>
+    </option>
+  </component>
 </application>
