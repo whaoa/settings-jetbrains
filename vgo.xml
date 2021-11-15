@@ -5,6 +5,7 @@
         <entry key="GOPROXY">
           <value>
             <list>
+              <option value="https://goproxy.cn" />
               <option value="https://goproxy.cn,direct" />
             </list>
           </value>
