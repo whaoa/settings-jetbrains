@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="342" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="门店" />
       <item value="abstract" />
       <item value="培训" />
       <item value="考试" />
@@ -32,7 +33,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="14" />
-        <entry key="ENGLISH" value="14" />
+        <entry key="ENGLISH" value="15" />
       </map>
     </option>
   </component>
