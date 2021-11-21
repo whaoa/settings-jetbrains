@@ -1,50 +1,5 @@
 <application>
-  <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="592" />
-    <option name="newTranslationDialogX" value="518" />
-    <option name="newTranslationDialogY" value="342" />
-    <option name="pinNewTranslationDialog" value="true" />
-    <histories>
-      <item value="培训" />
-      <item value="考试" />
-      <item value="referrer" />
-      <item value="是否可用" />
-      <item value="连续的" />
-      <item value="下架" />
-      <item value="上架" />
-      <item value="restaurants" />
-      <item value="House Promotion" />
-      <item value="生成" />
-      <item value="Plane" />
-      <item value="belong" />
-      <item value="reason" />
-      <item value="佣金" />
-      <item value="commission" />
-      <item value="brokerage" />
-      <item value="多选" />
-      <item value="单选" />
-      <item value="通讯录" />
-      <item value="Plane Object" />
-      <item value="{ [key: string]: any }" />
-      <item value="启动" />
-    </histories>
-    <option name="languageScores">
-      <map>
-        <entry key="CHINESE" value="13" />
-        <entry key="ENGLISH" value="14" />
-      </map>
-    </option>
-  </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1637384201022" />
-  </component>
-  <component name="Settings">
-    <option name="aliTranslateSettings">
-      <app-key>
-        <option name="appId" value="LTAI5tFjRYNoxNg6PZE8e2YQ" />
-      </app-key>
-    </option>
-    <option name="showReplacementActionInContextMenu" value="true" />
-    <option name="translator" value="ALI" />
+    <option name="lastTrimTime" value="1637479893371" />
   </component>
 </application>
