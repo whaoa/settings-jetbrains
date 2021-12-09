@@ -1,5 +1,10 @@
 <application>
+  <component name="AppStorage">
+    <histories>
+      <item value="command" />
+    </histories>
+  </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1637479893371" />
+    <option name="lastTrimTime" value="1639017835302" />
   </component>
 </application>
