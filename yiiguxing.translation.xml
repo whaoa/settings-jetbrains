@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="转换类型" />
       <item value="适配器" />
       <item value="生成" />
       <item value="废弃" />
@@ -10,12 +11,15 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4" />
-        <entry key="ENGLISH" value="4" />
+        <entry key="CHINESE" value="5" />
+        <entry key="ENGLISH" value="5" />
       </map>
     </option>
   </component>
   <component name="Cache">
     <option name="lastTrimTime" value="1639549891810" />
+  </component>
+  <component name="Settings">
+    <option name="showReplacementActionInContextMenu" value="true" />
   </component>
 </application>
