@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="编辑器" />
+      <item value="富文本" />
       <item value="转换类型" />
       <item value="适配器" />
       <item value="生成" />
@@ -11,13 +13,13 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5" />
-        <entry key="ENGLISH" value="5" />
+        <entry key="CHINESE" value="8" />
+        <entry key="ENGLISH" value="8" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1640143288392" />
+    <option name="lastTrimTime" value="1640583819525" />
   </component>
   <component name="Settings">
     <option name="showReplacementActionInContextMenu" value="true" />
