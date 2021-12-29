@@ -6,6 +6,10 @@
           <option name="url" value="http://192.168.9.2:8030" />
           <option name="userName" value="whaoa" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://219.148.49.251:8030" />
+          <option name="userName" value="whaoa" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
