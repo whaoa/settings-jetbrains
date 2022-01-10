@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="推荐" />
+      <item value="关注" />
       <item value="percent" />
       <item value="similar" />
       <item value="编辑器" />
@@ -21,9 +23,15 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1640583819525" />
+    <option name="lastTrimTime" value="1641796942456" />
   </component>
   <component name="Settings">
+    <option name="aliTranslateSettings">
+      <app-key>
+        <option name="appId" value="LTAI5tFjRYNoxNg6PZE8e2YQ" />
+      </app-key>
+    </option>
     <option name="showReplacementActionInContextMenu" value="true" />
+    <option name="translator" value="ALI" />
   </component>
 </application>
