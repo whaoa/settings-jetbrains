@@ -6,17 +6,28 @@
           <option name="url" value="http://192.168.9.2:8030" />
           <option name="userName" value="whaoa" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://219.148.49.251:8030" />
+          <option name="userName" value="whaoa" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
   <component name="Vcs.Log.App.Settings">
+    <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
     <option name="COLUMN_ID_ORDER">
       <list>
         <option value="Default.Root" />
         <option value="Default.Subject" />
         <option value="Default.Author" />
         <option value="Default.Date" />
+        <option value="Default.Hash" />
       </list>
+    </option>
+    <option name="COLUMN_ID_VISIBILITY">
+      <map>
+        <entry key="Table.Default.Hash.ColumnIdVisibility" value="true" />
+      </map>
     </option>
   </component>
   <component name="VcsApplicationSettings">
