@@ -1,0 +1,16 @@
+<application>
+  <component name="vgo">
+    <environment>
+      <map>
+        <entry key="GOPROXY">
+          <value>
+            <list>
+              <option value="https://goproxy.cn" />
+              <option value="https://goproxy.cn,direct" />
+            </list>
+          </value>
+        </entry>
+      </map>
+    </environment>
+  </component>
+</application>
