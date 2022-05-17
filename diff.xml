@@ -35,6 +35,17 @@
           </option>
         </PlaceSettings>
       </entry>
+      <entry key="VcsLogView">
+        <PlaceSettings>
+          <option name="DIFF_TOOLS_ORDER">
+            <list>
+              <option value="com.intellij.diff.tools.simple.SimpleDiffTool" />
+              <option value="com.intellij.diff.tools.fragmented.UnifiedDiffTool" />
+            </list>
+          </option>
+          <option name="SYNC_BINARY_EDITOR_SETTINGS" value="false" />
+        </PlaceSettings>
+      </entry>
     </option>
   </component>
 </application>
